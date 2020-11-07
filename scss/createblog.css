@@ -1,0 +1,10 @@
+.containerBody {
+  background: -webkit-gradient(linear, right top, left bottom, from(lightslategrey), color-stop(80%, white));
+  background: linear-gradient(to bottom left, lightslategrey 0%, white 80%);
+  font-family: "Times New Roman", Times, serif;
+}
+
+#myfile {
+  color: black;
+}
+/*# sourceMappingURL=createblog.css.map */
